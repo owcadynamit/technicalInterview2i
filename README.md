@@ -1,2 +1,2 @@
 # technicalInterview2i
-Coding test for interview purposes 
+Coding test for interview purposes
