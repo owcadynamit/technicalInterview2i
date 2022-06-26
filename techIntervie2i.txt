@@ -6,7 +6,7 @@
  *1. The solution is totally up to me and there is no requirement regarding the design. It will be programmed using Java Script using NetBeans. 
  *2. As the task should be completed in 30 minutes it is understandable to use a command line rather than any interface tool
  *3. As no specification was given, I took a freedom to create a space requesting a user input rather than array of values or hardcoded numbers. 
- *4. I assume the program is to work on positive integers rather than doubles and negative numbers.
+ *4. I assume the program is to work on positive integers rather than doubles and negative numbers. 
  * 
 */
 package techinterview2i;
